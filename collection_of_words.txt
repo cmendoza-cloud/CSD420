@@ -1,0 +1,8 @@
+Dog
+Cat
+bird
+dog
+CAT
+fish
+turtle
+Fish
